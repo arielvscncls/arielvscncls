@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arielvscncls. My name is Ariel Vasconcelos. I currently live in Fortaleza, Brazil.
 - 👀 I’m interested in a lot of things. I study dentistry, I draw, ...
-- 🌱 I’m currently learning PHP - Bootstrap - SQL - AWS
-- 💞️ I’m looking to collaborate on ?
+- 🌱 I’m currently learning UX UI design and frontend skills
+- 💞️ I’m looking to collaborate on new projects
 
 <!---
 arielvscncls/arielvscncls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
