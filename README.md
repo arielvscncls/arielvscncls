@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arielvscncls. My name is Ariel Vasconcelos. I currently live in Fortaleza, Brazil.
+- 👋 Hi, I’m Ariel Vasconcelos. I currently live in Fortaleza, Brazil.
 - 👀 I’m interested in a lot of things. I study dentistry, I draw, ...
 - 🌱 I’m currently learning UX UI design and frontend skills
 - 💞️ I’m looking to collaborate on new projects
